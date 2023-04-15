@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # 💫 About Me:
 🔭 I'm currently working on Ingenia as Front-End Developer<br>💬 I'm Santiago Muscolo i am 19 years old and i love programming and training<br>🌱 I'm currently learning React Js and I have knowledge of javascript, html, css<br>
 
@@ -22,4 +21,4 @@
 [![](https://visitcount.itsvg.in/api?id=SantiagoMuscolo&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
