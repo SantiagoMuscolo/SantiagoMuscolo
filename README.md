@@ -7,9 +7,13 @@
 
 <br>
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-
-	
+<br>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -20,7 +24,7 @@
 - :nerd_face: A passionate Front-end developer
 - :computer: Making videos at my spare time
 - :student: Currently learning Web Development at CoderHouse and on my own
-- :technologist: I am a Junior at Faculty of Computers & Informatics at Suez Canal University.
+- :technologist: I am a Junior at Ingenia
 
 <br><br>
 
