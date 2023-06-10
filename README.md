@@ -17,10 +17,10 @@
 
 <br>
 
-- A passionate Front-end developer
-- Making videos at my spare time
-- Currently learning Web Development at CoderHouse and on my own
-- Working in Ingenia as Front-End Developer
+- :nerd_face: A passionate Front-end developer
+- :computer: Making videos at my spare time
+- :student: Currently learning Web Development at CoderHouse and on my own
+- :technologist: I am a Junior at Faculty of Computers & Informatics at Suez Canal University.
 
 <br><br>
 
