@@ -14,8 +14,8 @@
 
 - :nerd_face: A passionate Front-end developer
 - :computer: Making videos at my spare time
-- :student: Currently learning Web Development at CoderHouse and on my own
-- :technologist: I am a Junior at Ingenia
+- :student: Currently learning Web Development on my own
+- :technologist: I am a semi-senior at Ingenia
 
 <br><br>
 
